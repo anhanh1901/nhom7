@@ -1,0 +1,3276 @@
+# <!=Copyright (C) 2022 Underscores.me
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.3.8\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/elegant-shop\n"
+"POT-Creation-Date: 2022-03-12 05:57:56+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Country: United States\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Textdomain-Support: yes\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: 404.php:24
+msgid "Sorry We Can`t Find That Page!"
+msgstr ""
+
+#: 404.php:27
+msgid "The page you are looking for was moved, removed, renamed or never existed."
+msgstr ""
+
+#: comments.php:35
+#. translators: 1: title.
+msgid "Comments"
+msgstr ""
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr ""
+
+#: headers/four.php:9 headers/one.php:9 headers/three.php:9
+#: inc/customizer/panels/general/header.php:23 inc/extra-functions.php:832
+msgid "All Departments"
+msgstr ""
+
+#: headers/one.php:10 inc/customizer/panels/general/header.php:215
+msgid "SPECIAL OFFER"
+msgstr ""
+
+#: headers/one.php:12 inc/customizer/panels/general/header.php:257
+msgid "BUY THEME"
+msgstr ""
+
+#: inc/cpt.php:19
+msgid "Teams"
+msgstr ""
+
+#: inc/cpt.php:20 inc/cpt.php:46
+msgid "Team"
+msgstr ""
+
+#: inc/cpt.php:21
+msgid "Team Archives"
+msgstr ""
+
+#: inc/cpt.php:22
+msgid "Team Attributes"
+msgstr ""
+
+#: inc/cpt.php:23
+msgid "Parent Team:"
+msgstr ""
+
+#: inc/cpt.php:24
+msgid "All Teams"
+msgstr ""
+
+#: inc/cpt.php:25
+msgid "Add New Team"
+msgstr ""
+
+#: inc/cpt.php:26 inc/cpt.php:87
+msgid "Add New"
+msgstr ""
+
+#: inc/cpt.php:27
+msgid "New Team"
+msgstr ""
+
+#: inc/cpt.php:28
+msgid "Edit Team"
+msgstr ""
+
+#: inc/cpt.php:29
+msgid "Update Team"
+msgstr ""
+
+#: inc/cpt.php:30
+msgid "View Team"
+msgstr ""
+
+#: inc/cpt.php:31
+msgid "View Teams"
+msgstr ""
+
+#: inc/cpt.php:32
+msgid "Search Team"
+msgstr ""
+
+#: inc/cpt.php:33 inc/cpt.php:94
+msgid "Not found"
+msgstr ""
+
+#: inc/cpt.php:34 inc/cpt.php:95
+msgid "Not found in Trash"
+msgstr ""
+
+#: inc/cpt.php:35 inc/cpt.php:96
+msgid "Featured Image"
+msgstr ""
+
+#: inc/cpt.php:36 inc/cpt.php:97
+msgid "Set featured image"
+msgstr ""
+
+#: inc/cpt.php:37 inc/cpt.php:98
+msgid "Remove featured image"
+msgstr ""
+
+#: inc/cpt.php:38 inc/cpt.php:99
+msgid "Use as featured image"
+msgstr ""
+
+#: inc/cpt.php:39
+msgid "Insert into team"
+msgstr ""
+
+#: inc/cpt.php:40
+msgid "Uploaded to this team"
+msgstr ""
+
+#: inc/cpt.php:41
+msgid "Teams list"
+msgstr ""
+
+#: inc/cpt.php:42
+msgid "Teams list navigation"
+msgstr ""
+
+#: inc/cpt.php:43
+msgid "Filter teams list"
+msgstr ""
+
+#: inc/cpt.php:47
+msgid "A Custom Post Type for Team."
+msgstr ""
+
+#: inc/cpt.php:80 inc/customizer/panels/about/testimonial.php:25
+#: inc/customizer/partial-refresh.php:293 sections/about/testimonial.php:8
+msgid "Testimonials"
+msgstr ""
+
+#: inc/cpt.php:81 inc/cpt.php:107
+msgid "Testimonial"
+msgstr ""
+
+#: inc/cpt.php:82
+msgid "Testimonial Archives"
+msgstr ""
+
+#: inc/cpt.php:83
+msgid "Testimonial Attributes"
+msgstr ""
+
+#: inc/cpt.php:84
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: inc/cpt.php:85
+msgid "All Testimonials"
+msgstr ""
+
+#: inc/cpt.php:86
+msgid "Add New Testimonial"
+msgstr ""
+
+#: inc/cpt.php:88
+msgid "New Testimonial"
+msgstr ""
+
+#: inc/cpt.php:89
+msgid "Edit Testimonial"
+msgstr ""
+
+#: inc/cpt.php:90
+msgid "Update Testimonial"
+msgstr ""
+
+#: inc/cpt.php:91
+msgid "View Testimonial"
+msgstr ""
+
+#: inc/cpt.php:92
+msgid "View Testimonials"
+msgstr ""
+
+#: inc/cpt.php:93
+msgid "Search Testimonial"
+msgstr ""
+
+#: inc/cpt.php:100
+msgid "Insert into testimonial"
+msgstr ""
+
+#: inc/cpt.php:101
+msgid "Uploaded to this testimonial"
+msgstr ""
+
+#: inc/cpt.php:102
+msgid "Testimonials list"
+msgstr ""
+
+#: inc/cpt.php:103
+msgid "Testimonials list navigation"
+msgstr ""
+
+#: inc/cpt.php:104
+msgid "Filter testimonials list"
+msgstr ""
+
+#: inc/cpt.php:108
+msgid "A Custom Post Type for Testimonial."
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:75
+msgid "row"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:83
+msgid "Add new %s"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:239
+msgid "Limit: %s rows"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:369
+msgid "Hex Value"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:394
+#: inc/custom-controls/repeater/class-control-repeater.php:399
+msgid "No Image Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:404
+#: inc/custom-controls/repeater/class-control-repeater.php:469
+msgid "Remove"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:409
+#: inc/customizer/panels/general.php:240
+msgid "Add Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:405
+#: inc/custom-controls/repeater/class-control-repeater.php:407
+msgid "Change Image"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:430
+#: inc/custom-controls/repeater/class-control-repeater.php:435
+msgid "No File Selected"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:445
+msgid "Add File"
+msgstr ""
+
+#: inc/custom-controls/repeater/class-control-repeater.php:441
+#: inc/custom-controls/repeater/class-control-repeater.php:443
+msgid "Change File"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:32
+msgid "System fonts"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:33
+msgid "Google fonts"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:35
+msgid "Font family"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:36
+msgid "Font weight"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:37
+msgid "Text transform"
+msgstr ""
+
+#: inc/custom-controls/typography/class-typography-control.php:39
+msgid "Variants"
+msgstr ""
+
+#: inc/custom-functions.php:55
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:56
+msgid "Secondary"
+msgstr ""
+
+#: inc/custom-functions.php:57
+msgid "Mega Menu"
+msgstr ""
+
+#: inc/custom-functions.php:180 inc/customizer/panels/layout/pagination.php:49
+msgid "Load More Posts"
+msgstr ""
+
+#: inc/custom-functions.php:181 inc/customizer/panels/layout/pagination.php:68
+msgid "Loading..."
+msgstr ""
+
+#: inc/custom-functions.php:182
+msgid "No More Posts"
+msgstr ""
+
+#: inc/custom-functions.php:241
+msgid "About Page"
+msgstr ""
+
+#: inc/custom-functions.php:242
+msgid "Testimonial Page"
+msgstr ""
+
+#: inc/custom-functions.php:243
+msgid "Team Page"
+msgstr ""
+
+#: inc/custom-functions.php:244
+msgid "Pricing Page"
+msgstr ""
+
+#: inc/custom-functions.php:245
+msgid "Services Page"
+msgstr ""
+
+#: inc/custom-functions.php:246
+msgid "Contact Page"
+msgstr ""
+
+#: inc/custom-functions.php:247
+msgid "Partner Page"
+msgstr ""
+
+#: inc/custom-functions.php:248
+msgid "FAQ Page"
+msgstr ""
+
+#: inc/custom-header.php:39
+msgid "Default Header Image"
+msgstr ""
+
+#: inc/customizer/customizer.php:54
+msgid "Logo Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:55
+msgid "Set the width(px) of your Site Logo."
+msgstr ""
+
+#: inc/customizer/panels/about/counter.php:15
+#: inc/customizer/panels/about/sort.php:39
+msgid "Counter Section"
+msgstr ""
+
+#: inc/customizer/panels/about/counter.php:38
+msgid "Add Counters"
+msgstr ""
+
+#: inc/customizer/panels/about/counter.php:42
+#: inc/customizer/panels/about/partner.php:88
+#: inc/customizer/panels/home/featured.php:59
+#: inc/customizer/panels/home/footer-top.php:62
+#: inc/customizer/panels/home/offer.php:63
+#: inc/customizer/panels/partner/partner.php:88
+#: inc/customizer/panels/services/partner.php:107
+#: inc/customizer/panels/services/services.php:88
+#: inc/customizer/panels/testimonial/partner.php:107
+#: inc/customizer/section/footer.php:118
+msgid "Select Image"
+msgstr ""
+
+#: inc/customizer/panels/about/counter.php:46
+msgid "Enter Number"
+msgstr ""
+
+#: inc/customizer/panels/about/counter.php:50
+#: inc/customizer/panels/home/featured.php:46
+#: inc/customizer/panels/home/footer-top.php:66
+#: inc/customizer/panels/home/offer.php:46
+msgid "Enter Title"
+msgstr ""
+
+#: inc/customizer/panels/about/counter.php:54
+msgid "Enter suffix"
+msgstr ""
+
+#: inc/customizer/panels/about/counter.php:55
+msgid "Letter or symbol to be returned after the number"
+msgstr ""
+
+#: inc/customizer/panels/about/counter.php:60
+msgid "counter"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:15
+#: inc/customizer/panels/partner/cta.php:15
+#: inc/customizer/panels/services/cta.php:15
+#: inc/customizer/panels/testimonial/cta.php:15
+msgid "CTA Section"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:25
+#: inc/customizer/panels/partner/cta.php:44
+#: inc/customizer/panels/services/cta.php:44
+#: inc/customizer/panels/testimonial/cta.php:44
+#: inc/customizer/partial-refresh.php:137
+#: inc/customizer/partial-refresh.php:191
+#: inc/customizer/partial-refresh.php:251
+#: inc/customizer/partial-refresh.php:365 page-template/partner.php:13
+#: page-template/services.php:12 page-template/testimonial.php:13
+#: sections/about/cta.php:8
+msgid "Browse Through Our Products Library"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:35
+#: inc/customizer/panels/about/featured-second.php:58
+#: inc/customizer/panels/about/featured.php:58
+#: inc/customizer/panels/about/partner.php:34
+#: inc/customizer/panels/about/team.php:34
+#: inc/customizer/panels/about/testimonial.php:35
+#: inc/customizer/panels/contact/contact-detail.php:34
+#: inc/customizer/panels/faq/faq.php:34 inc/customizer/panels/faq/topics.php:34
+#: inc/customizer/panels/home/blog.php:31
+#: inc/customizer/panels/home/deals.php:33
+#: inc/customizer/panels/home/featured-products.php:35
+#: inc/customizer/panels/home/new-arrivals.php:34
+#: inc/customizer/panels/partner/cta.php:54
+#: inc/customizer/panels/partner/faq.php:54
+#: inc/customizer/panels/partner/partner.php:34
+#: inc/customizer/panels/pricing/faq.php:54
+#: inc/customizer/panels/services/cta.php:54
+#: inc/customizer/panels/services/partner.php:53
+#: inc/customizer/panels/services/services.php:34
+#: inc/customizer/panels/team.php:43
+#: inc/customizer/panels/testimonial/cta.php:54
+#: inc/customizer/panels/testimonial/partner.php:53
+#: inc/customizer/panels/testimonial/testimonial.php:34
+msgid "Section Title"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:59
+#: inc/customizer/panels/about/featured-second.php:34
+#: inc/customizer/panels/about/featured.php:34
+#: inc/customizer/panels/about/partner.php:57
+#: inc/customizer/panels/about/team.php:58
+#: inc/customizer/panels/about/testimonial.php:59
+#: inc/customizer/panels/partner/cta.php:78
+#: inc/customizer/panels/services/cta.php:78
+#: inc/customizer/panels/services/partner.php:76
+#: inc/customizer/panels/team.php:67
+#: inc/customizer/panels/testimonial/cta.php:78
+#: inc/customizer/panels/testimonial/partner.php:76
+msgid "Section Subtitle"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:73 inc/customizer/panels/general.php:464
+#: inc/customizer/panels/home/deals.php:92
+#: inc/customizer/panels/partner/cta.php:92
+#: inc/customizer/panels/services/cta.php:92
+#: inc/customizer/panels/testimonial/cta.php:92
+#: inc/customizer/partial-refresh.php:92 inc/customizer/partial-refresh.php:101
+#: inc/customizer/partial-refresh.php:149
+#: inc/customizer/partial-refresh.php:203
+#: inc/customizer/partial-refresh.php:263
+#: inc/customizer/partial-refresh.php:377 page-template/partner.php:15
+#: page-template/services.php:14 page-template/testimonial.php:15
+#: sections/about/cta.php:10 sections/home/banner.php:14
+#: sections/home/deals.php:11 sections/home/product-cat.php:8
+msgid "Shop Now"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:84
+#: inc/customizer/panels/about/featured.php:101
+#: inc/customizer/panels/general/misc.php:103
+#: inc/customizer/panels/general/top-header.php:79
+#: inc/customizer/panels/general.php:256
+#: inc/customizer/panels/home/featured-products.php:144
+#: inc/customizer/panels/partner/cta.php:103
+#: inc/customizer/panels/services/cta.php:103
+#: inc/customizer/panels/testimonial/cta.php:103
+msgid "Button Label"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:105
+#: inc/customizer/panels/partner/cta.php:124
+#: inc/customizer/panels/services/cta.php:124
+#: inc/customizer/panels/testimonial/cta.php:124
+msgid "Button Link"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:106
+#: inc/customizer/panels/partner/cta.php:125
+#: inc/customizer/panels/services/cta.php:125
+#: inc/customizer/panels/testimonial/cta.php:125
+msgid "The link opens in a new tab"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:126
+#: inc/customizer/panels/about/partner.php:97
+#: inc/customizer/panels/home/blog.php:145
+#: inc/customizer/panels/home/category.php:57
+#: inc/customizer/panels/home/deals.php:184
+#: inc/customizer/panels/home/featured-products.php:167
+#: inc/customizer/panels/home/featured.php:88
+#: inc/customizer/panels/home/new-arrivals.php:150
+#: inc/customizer/panels/home/offer.php:130
+#: inc/customizer/panels/home/product-cat.php:115
+#: inc/customizer/panels/partner/cta.php:145
+#: inc/customizer/panels/partner/partner.php:97
+#: inc/customizer/panels/services/cta.php:145
+#: inc/customizer/panels/services/partner.php:116
+#: inc/customizer/panels/services/services.php:104
+#: inc/customizer/panels/testimonial/cta.php:145
+#: inc/customizer/panels/testimonial/partner.php:116
+msgid "Enable to open link in a new tab"
+msgstr ""
+
+#: inc/customizer/panels/about/cta.php:144
+#: inc/customizer/panels/partner/cta.php:163
+#: inc/customizer/panels/services/cta.php:163
+#: inc/customizer/panels/testimonial/cta.php:163
+msgid "CTA background color"
+msgstr ""
+
+#: inc/customizer/panels/about/featured-second.php:14
+#: inc/customizer/panels/about/sort.php:40
+msgid "Second Featured Section"
+msgstr ""
+
+#: inc/customizer/panels/about/featured-second.php:24
+#: inc/customizer/panels/about/featured.php:24
+#: inc/customizer/partial-refresh.php:221
+#: inc/customizer/partial-refresh.php:239 sections/about/featured-second.php:9
+#: sections/about/featured.php:8
+msgid "Our Story"
+msgstr ""
+
+#: inc/customizer/panels/about/featured-second.php:48
+#: inc/customizer/panels/about/featured.php:48
+#: inc/customizer/partial-refresh.php:227
+#: inc/customizer/partial-refresh.php:245 sections/about/featured-second.php:8
+#: sections/about/featured.php:9
+msgid "Producing"
+msgstr ""
+
+#: inc/customizer/panels/about/featured-second.php:81
+#: inc/customizer/panels/about/featured.php:81
+#: inc/customizer/panels/faq/faq.php:58 inc/customizer/panels/home/deals.php:57
+#: inc/customizer/panels/partner/faq.php:78
+#: inc/customizer/panels/pricing/faq.php:78
+msgid "Section Description"
+msgstr ""
+
+#: inc/customizer/panels/about/featured-second.php:100
+#: inc/customizer/panels/about/featured-second.php:121
+#: inc/customizer/panels/about/featured.php:142
+#: inc/customizer/panels/about/featured.php:163
+msgid "Upload an image"
+msgstr ""
+
+#: inc/customizer/panels/about/featured-second.php:143
+#: inc/customizer/panels/about/featured.php:185
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/customizer/panels/about/featured-second.php:146
+#: inc/customizer/panels/about/featured.php:188
+#: inc/customizer/panels/general.php:559
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/panels/about/featured-second.php:147
+#: inc/customizer/panels/about/featured.php:189
+#: inc/customizer/panels/general.php:561
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/panels/about/featured.php:14
+#: inc/customizer/panels/about/sort.php:38
+#: inc/customizer/panels/home/featured.php:15
+#: inc/customizer/panels/home/sort.php:39
+msgid "Featured Section"
+msgstr ""
+
+#: inc/customizer/panels/about/featured.php:90
+#: inc/customizer/partial-refresh.php:233 sections/about/featured.php:11
+msgid "Go To Shop"
+msgstr ""
+
+#: inc/customizer/panels/about/featured.php:122
+msgid "Learn More Link"
+msgstr ""
+
+#: inc/customizer/panels/about/partner.php:15
+#: inc/customizer/panels/about/sort.php:44
+#: inc/customizer/panels/partner/partner.php:15
+#: inc/customizer/panels/services/partner.php:15
+#: inc/customizer/panels/testimonial/partner.php:15
+msgid "Partner Section"
+msgstr ""
+
+#: inc/customizer/panels/about/partner.php:24
+#: inc/customizer/panels/services/partner.php:43
+#: inc/customizer/panels/testimonial/partner.php:43
+#: inc/customizer/partial-refresh.php:155
+#: inc/customizer/partial-refresh.php:209
+#: inc/customizer/partial-refresh.php:269 page-template/services.php:18
+#: page-template/testimonial.php:19 sections/about/partner.php:8
+msgid "Our Trusted Branding Partners"
+msgstr ""
+
+#: inc/customizer/panels/about/partner.php:84
+#: inc/customizer/panels/partner/partner.php:84
+#: inc/customizer/panels/services/partner.php:103
+#: inc/customizer/panels/services/services.php:84
+msgid "Sponsors"
+msgstr ""
+
+#: inc/customizer/panels/about/partner.php:92
+#: inc/customizer/panels/faq/topics.php:69
+#: inc/customizer/panels/general.php:260
+#: inc/customizer/panels/home/featured.php:54
+#: inc/customizer/panels/home/offer.php:58
+#: inc/customizer/panels/partner/partner.php:92
+#: inc/customizer/panels/services/partner.php:111
+#: inc/customizer/panels/services/services.php:100
+#: inc/customizer/panels/testimonial/partner.php:111
+#: inc/customizer/section/footer.php:122
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/panels/about/partner.php:93
+#: inc/customizer/panels/home/featured.php:55
+#: inc/customizer/panels/home/offer.php:59
+#: inc/customizer/panels/partner/partner.php:93
+#: inc/customizer/panels/services/partner.php:112
+#: inc/customizer/panels/testimonial/partner.php:112
+#: inc/customizer/section/footer.php:123
+msgid "Example: https://facebook.com"
+msgstr ""
+
+#: inc/customizer/panels/about/partner.php:102
+#: inc/customizer/panels/partner/partner.php:102
+#: inc/customizer/panels/services/partner.php:121
+#: inc/customizer/panels/services/services.php:109
+msgid "links"
+msgstr ""
+
+#: inc/customizer/panels/about/partner.php:124
+#: inc/customizer/panels/partner/partner.php:124
+#: inc/customizer/panels/services/partner.php:143
+#: inc/customizer/panels/testimonial/partner.php:143
+msgid "Show Grayscale on logos"
+msgstr ""
+
+#: inc/customizer/panels/about/sort.php:14
+#: inc/customizer/panels/home/sort.php:15
+msgid "Sort Section"
+msgstr ""
+
+#: inc/customizer/panels/about/sort.php:35
+#: inc/customizer/panels/home/sort.php:36
+msgid "Sort Sections"
+msgstr ""
+
+#: inc/customizer/panels/about/sort.php:36
+msgid "Sort or toggle About page sections."
+msgstr ""
+
+#: inc/customizer/panels/about/sort.php:41
+msgid "Call To Action Section"
+msgstr ""
+
+#: inc/customizer/panels/about/sort.php:42
+#: inc/customizer/panels/about/team.php:14 inc/customizer/panels/team.php:23
+msgid "Team Section"
+msgstr ""
+
+#: inc/customizer/panels/about/sort.php:43
+#: inc/customizer/panels/about/testimonial.php:14
+#: inc/customizer/panels/testimonial/testimonial.php:14
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/customizer/panels/about/team.php:24 inc/customizer/panels/team.php:33
+#: inc/customizer/partial-refresh.php:167
+#: inc/customizer/partial-refresh.php:281 page-template/team.php:7
+#: sections/about/team.php:8
+msgid "Team Members"
+msgstr ""
+
+#: inc/customizer/panels/about/team.php:82
+msgid "Number of Instructors to show"
+msgstr ""
+
+#: inc/customizer/panels/about/testimonial.php:84
+msgid "Number of Testimonials to show"
+msgstr ""
+
+#: inc/customizer/panels/about.php:16
+msgid "About Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/about.php:17
+msgid "About Template settings."
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:14
+msgid "Contact Details Section"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:24
+#: inc/customizer/partial-refresh.php:305 page-template/contact.php:8
+msgid "Keep in touch with us"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:57
+#: inc/customizer/panels/partner/partner.php:57
+#: inc/customizer/panels/services/services.php:57
+#: inc/customizer/panels/testimonial/testimonial.php:58
+msgid "Section Content"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:65
+#: inc/template-functions.php:486
+msgid "Address"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:74
+msgid "Location Title"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:82
+#: inc/template-functions.php:487
+msgid "4140 Parker Rd. Allentown, New Mexico 31134"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:91
+msgid "Location Description"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:99
+#: inc/template-functions.php:511
+msgid "Contact"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:108
+msgid "Contact Information Title"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:116
+#: inc/customizer/panels/general/share.php:85 inc/template-functions.php:512
+msgid "Email"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:125
+msgid "Mail Title"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:133
+#: inc/template-functions.php:513
+msgid "debra.holt@example.com"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:142
+msgid "Email Address"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:143
+msgid ""
+"You can add multiple emails by seperating it with comma. For example: "
+"xyz@gmail.com, abc@yahoo.com"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:151
+#: inc/template-functions.php:515
+msgid "Phone"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:160
+msgid "Phone Us Title"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:168
+#: inc/template-functions.php:516
+msgid "+1 (800) 123 456 789"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:177
+msgid "Phone Number"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:178
+msgid "You can add multiple phone number seperating with comma"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:186
+#: inc/template-functions.php:565
+msgid "Hours of Operation"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:195
+msgid "Contact Timing Title"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:203
+#: inc/template-functions.php:566
+msgid "Monday - Friday: 09.00 - 20.00"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:212
+msgid "Contact Timing Content"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:213
+msgid ""
+"You can add multiple contact hours seperating with comma. For example: "
+"Monday - Friday: 09.00 - 20.00, Sunday & Saturday: 10.30 - 22.30"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:233
+msgid "Enable Social Section"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:241
+#: inc/customizer/partial-refresh.php:311 inc/template-functions.php:633
+msgid "Follow Us:"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-detail.php:251
+msgid "Social Title"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-form.php:14
+msgid "Contact Form Section"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-form.php:23
+#: inc/customizer/partial-refresh.php:317 inc/template-functions.php:612
+msgid "Get In Touch"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-form.php:33
+msgid "Contact Form Title"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-form.php:55
+msgid "Contact Form Shortcode"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-form.php:56
+msgid "Please generate the shortcode from contact form 7 widget"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-map.php:16
+msgid "Google Map Section"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-map.php:37
+msgid "Google Map Settings"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-map.php:38
+msgid "Disable to hide the Google Map Settings"
+msgstr ""
+
+#: inc/customizer/panels/contact/contact-map.php:55
+msgid "Embeded Google Map"
+msgstr ""
+
+#: inc/customizer/panels/contact.php:17
+msgid "Contact Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/contact.php:18
+msgid "Customize contact Page Sections"
+msgstr ""
+
+#: inc/customizer/panels/faq/faq.php:14
+#: inc/customizer/panels/partner/faq.php:14
+#: inc/customizer/panels/pricing/faq.php:14
+msgid "FAQ Section"
+msgstr ""
+
+#: inc/customizer/panels/faq/faq.php:24
+#: inc/customizer/panels/partner/faq.php:44
+#: inc/customizer/panels/pricing/faq.php:44
+#: inc/customizer/partial-refresh.php:323
+#: inc/customizer/partial-refresh.php:353
+#: inc/customizer/partial-refresh.php:383 page-template/faq.php:8
+#: page-template/partner.php:19 page-template/pricing.php:10
+msgid "Frequently Asked Questions"
+msgstr ""
+
+#: inc/customizer/panels/faq/faq.php:85
+#: inc/customizer/panels/partner/faq.php:105
+#: inc/customizer/panels/pricing/faq.php:105
+msgid "FAQs"
+msgstr ""
+
+#: inc/customizer/panels/faq/faq.php:89
+#: inc/customizer/panels/partner/faq.php:109
+#: inc/customizer/panels/pricing/faq.php:109
+msgid "Frequently Asked Question"
+msgstr ""
+
+#: inc/customizer/panels/faq/faq.php:93
+#: inc/customizer/panels/partner/faq.php:113
+#: inc/customizer/panels/pricing/faq.php:113
+msgid "Answers"
+msgstr ""
+
+#: inc/customizer/panels/faq/faq.php:98 inc/customizer/panels/faq/topics.php:74
+#: inc/customizer/panels/partner/faq.php:118
+#: inc/customizer/panels/pricing/faq.php:118
+msgid "FAQ"
+msgstr ""
+
+#: inc/customizer/panels/faq/topics.php:14
+msgid "Topics Section"
+msgstr ""
+
+#: inc/customizer/panels/faq/topics.php:24
+#: inc/customizer/panels/faq/topics.php:61
+#: inc/customizer/partial-refresh.php:335 page-template/faq.php:11
+msgid "Topics"
+msgstr ""
+
+#: inc/customizer/panels/faq/topics.php:65
+#: inc/customizer/panels/general/top-header.php:55
+#: inc/customizer/panels/general.php:75 inc/customizer/panels/general.php:248
+#: inc/customizer/panels/home/product-cat.php:39
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/panels/faq/topics.php:96
+#: inc/customizer/panels/general.php:535
+msgid "Open in a new tab"
+msgstr ""
+
+#: inc/customizer/panels/faq/topics.php:97
+#: inc/customizer/panels/general.php:536
+msgid "Enable to open the link in a new tab."
+msgstr ""
+
+#: inc/customizer/panels/faq.php:17
+msgid "FAQ Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/faq.php:18
+msgid "Customize FAQ Page Sections"
+msgstr ""
+
+#: inc/customizer/panels/general/appearance.php:18
+msgid "Appearance Settings"
+msgstr ""
+
+#: inc/customizer/panels/general/appearance.php:21
+msgid "Change color and body background."
+msgstr ""
+
+#: inc/customizer/panels/general/appearance.php:40
+msgid "Primary Color"
+msgstr ""
+
+#: inc/customizer/panels/general/appearance.php:41
+msgid "Primary color of the theme"
+msgstr ""
+
+#: inc/customizer/panels/general/appearance.php:62
+msgid "Secondary Color"
+msgstr ""
+
+#: inc/customizer/panels/general/appearance.php:63
+msgid "Secondary color of the theme"
+msgstr ""
+
+#: inc/customizer/panels/general/appearance.php:82
+msgid "Fallback SVG Background Color"
+msgstr ""
+
+#: inc/customizer/panels/general/appearance.php:83
+msgid "Fallback svg color of the theme"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:14
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:33
+msgid "Mega Menu Label"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:59
+msgid "Currency Switcher Shortcode"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:60
+msgid "Enter the shortcode here. Ex. [woocs]"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:78
+msgid "Language Switcher Shortcode"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:79
+msgid "Enter the shortcode here."
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:98
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:99
+msgid "Enable to stick header at top."
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:119
+msgid "Enable Header Search"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:120
+msgid "Enable to show product search in header."
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:141
+msgid "Header Search"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:142
+msgid "Enable to show search in header"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:163
+msgid "Wishlist Cart"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:164
+msgid "Enable to show Wishlist cart in the header."
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:184
+msgid "User Login"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:185
+msgid "Enable to show user login in the header."
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:205
+msgid "Shopping Cart"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:206
+msgid "Enable to show Shopping cart in the header."
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:224
+msgid "Header Button one"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:249
+msgid "Header Button One Link"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:266
+msgid "Header Button two"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:291
+msgid "Header Button Two Link"
+msgstr ""
+
+#: inc/customizer/panels/general/header.php:310
+msgid "%1$sClick here%2$s to select the layout of header."
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:16
+msgid "Misc Settings"
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:37
+msgid "Admin Bar"
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:38
+msgid "Disable to hide Admin Bar in frontend when logged in."
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:58
+msgid "Scroll To Top"
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:59
+msgid "You can enable/disable Scroll to Top."
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:79
+#: inc/customizer/panels/general/post-page.php:77
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:80
+#: inc/customizer/panels/general/post-page.php:78
+msgid "Automatically generated excerpt length (in words)."
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:94 inc/extra-functions.php:1171
+msgid "View Details"
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:104
+msgid "Read more button label for Archive Pages and 404."
+msgstr ""
+
+#: inc/customizer/panels/general/misc.php:129
+msgid "Upload an image for error page"
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:16
+msgid "Performance Settings"
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:37
+msgid "Lazy Load"
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:38
+msgid "Enable lazy loading of featured images."
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:58
+msgid "Lazy Load Content Images"
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:59
+msgid "Enable lazy loading of images inside page/post content."
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:79
+msgid "Lazy Load Gravatar"
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:80
+msgid "Enable lazy loading of gravatar image."
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:100
+msgid "Defer JavaScript"
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:101
+msgid "Adds \"defer\" attribute to sript tags to improve page download speed."
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:120
+msgid "Remove ver parameters"
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:121
+msgid "Enable to remove \"ver\" parameter from CSS and JS file calls."
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:141
+msgid "Disable Woocommerce Scripts"
+msgstr ""
+
+#: inc/customizer/panels/general/performance.php:160
+msgid "Disable Cart Scripts"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:14
+msgid "Posts(Blog) & Pages Settings"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:35
+msgid "Hide Prefix in Archive Page"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:36
+msgid "Enable to hide prefix in archive page."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:56
+msgid "Enable Blog Excerpt"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:57
+msgid "Enable to show excerpt or disable to show full post content."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:92
+#: inc/customizer/panels/home/blog.php:111
+#: inc/customizer/partial-refresh.php:110 inc/extra-functions.php:1081
+#: inc/template-functions.php:319 sections/home/blog.php:11
+msgid "Read More"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:103
+msgid "Read More Text"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:127
+msgid "%s These options affect your individual posts."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:147
+msgid "Hide Author Section"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:148
+msgid "Enable to hide author section."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:168
+msgid "Show Related Posts"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:169
+msgid "Enable to show related posts in single page."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:178
+msgid "You may also like..."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:189
+msgid "Related Posts Section Title"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:214
+msgid "Related Post Taxonomy"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:215
+msgid "Choose Categories/Tags to display related post based on in Single Post."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:217
+#: inc/customizer/panels/general.php:124 inc/customizer/panels/home/blog.php:58
+#: inc/customizer/panels/home/blog.php:78
+#: inc/customizer/panels/home/new-arrivals.php:61
+msgid "Category"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:218
+msgid "Tags"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:240
+msgid "Hide Category"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:241
+msgid "Enable to hide category."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:261
+msgid "Hide Post Author"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:262
+msgid "Enable to hide post author."
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:282
+msgid "Hide Posted Date"
+msgstr ""
+
+#: inc/customizer/panels/general/post-page.php:283
+msgid "Enable to hide posted date."
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:15
+msgid "Social Sharing"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:36
+msgid "Enable Social Sharing Buttons"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:37
+msgid "Enable or disable social sharing buttons on archive and single posts."
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:57
+msgid "Enable Open Graph Meta Tags"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:58
+msgid ""
+"Disable this option if you're using Jetpack, Yoast or other plugin to "
+"maintain Open Graph meta tags."
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:78
+msgid "Social Sharing Buttons"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:79
+msgid "Sort or toggle social sharing buttons."
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:81
+msgid "Facebook"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:82
+msgid "Twitter"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:83
+msgid "Pinterest"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:84
+msgid "Linkedin"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:86
+msgid "Reddit"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:87
+msgid "Tumblr"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:88
+msgid "Digg"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:89
+msgid "Weibo"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:90
+msgid "Xing"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:91
+msgid "VK"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:92
+msgid "GetPocket"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:93
+msgid "Whatsapp"
+msgstr ""
+
+#: inc/customizer/panels/general/share.php:94
+msgid "Telegram"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:13
+msgid "Top Bar Settings"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:34
+msgid "Enable Top Bar"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:35
+msgid "Enable to show top bar on top of header."
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:44
+msgid "Due to the COVID 19 pandamic, our shipping may be delayed ! "
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:68
+msgid "Click here to know more"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:102
+msgid "Button URL"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:121
+msgid "Enable to open in new window"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:122
+msgid "Enable/Disable to show the url to go in next window"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:142
+#: inc/customizer/panels/home/deals.php:164
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:143
+msgid "Background color for the topbar."
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:162
+msgid "Top Bar Font Color"
+msgstr ""
+
+#: inc/customizer/panels/general/top-header.php:163
+msgid "Font color of the top bar section."
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:16
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:67
+msgid "Primary Font"
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:94
+msgid "Primary Font Size"
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:172
+msgid "Heading One(h1)"
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:251
+msgid "Heading Two( h2 )"
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:330
+msgid "Heading Three( h3 )"
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:409
+msgid "Heading Four( h4 )"
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:488
+msgid "Heading Five( h5 )"
+msgstr ""
+
+#: inc/customizer/panels/general/typography.php:567
+msgid "Heading Six(h6)"
+msgstr ""
+
+#: inc/customizer/panels/general.php:18
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/panels/general.php:19
+msgid ""
+"Customize Header, Social, Sharing, SEO, Post/Page, Newsletter, Performance "
+"and Miscellaneous settings."
+msgstr ""
+
+#: inc/customizer/panels/general.php:25
+msgid "Banner Section"
+msgstr ""
+
+#: inc/customizer/panels/general.php:49
+msgid "Banner Options"
+msgstr ""
+
+#: inc/customizer/panels/general.php:50
+msgid "Choose banner as static image/video or as a slider."
+msgstr ""
+
+#: inc/customizer/panels/general.php:53
+msgid "Disable Banner Section"
+msgstr ""
+
+#: inc/customizer/panels/general.php:54
+msgid "Static/Video CTA Banner"
+msgstr ""
+
+#: inc/customizer/panels/general.php:55
+msgid "Banner as Slider"
+msgstr ""
+
+#: inc/customizer/panels/general.php:66 sections/home/banner.php:17
+msgid "Find Your Best Holiday"
+msgstr ""
+
+#: inc/customizer/panels/general.php:91 sections/home/banner.php:18
+msgid "Find great adventure holidays and activities around the planet."
+msgstr ""
+
+#: inc/customizer/panels/general.php:99
+msgid "Sub Title"
+msgstr ""
+
+#: inc/customizer/panels/general.php:120
+msgid "Slider Content Style"
+msgstr ""
+
+#: inc/customizer/panels/general.php:123 inc/customizer/panels/home/blog.php:57
+#: inc/extra-functions.php:1094
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer/panels/general.php:125
+msgid "Pages"
+msgstr ""
+
+#: inc/customizer/panels/general.php:126
+#: inc/customizer/panels/home/new-arrivals.php:62
+msgid "Custom"
+msgstr ""
+
+#: inc/customizer/panels/general.php:147
+msgid "Slider Category"
+msgstr ""
+
+#: inc/customizer/panels/general.php:170
+msgid "Number of Slides"
+msgstr ""
+
+#: inc/customizer/panels/general.php:171
+msgid "Choose the number of slides you want to display"
+msgstr ""
+
+#: inc/customizer/panels/general.php:200
+msgid "Slider Pages "
+msgstr ""
+
+#: inc/customizer/panels/general.php:204
+msgid "Select Page for slider"
+msgstr ""
+
+#: inc/customizer/panels/general.php:210
+msgid "pages"
+msgstr ""
+
+#: inc/customizer/panels/general.php:236
+msgid "Add Sliders"
+msgstr ""
+
+#: inc/customizer/panels/general.php:244
+msgid "Subtitle"
+msgstr ""
+
+#: inc/customizer/panels/general.php:252
+msgid "Content"
+msgstr ""
+
+#: inc/customizer/panels/general.php:265 inc/customizer/panels/general.php:415
+msgid "Slide"
+msgstr ""
+
+#: inc/customizer/panels/general.php:308
+msgid "Banner Overlay"
+msgstr ""
+
+#: inc/customizer/panels/general.php:309
+msgid "Enable to add overlay in banner"
+msgstr ""
+
+#: inc/customizer/panels/general.php:329
+msgid "Slider Auto"
+msgstr ""
+
+#: inc/customizer/panels/general.php:330
+msgid "Enable slider auto transition."
+msgstr ""
+
+#: inc/customizer/panels/general.php:351
+msgid "Slider Loop"
+msgstr ""
+
+#: inc/customizer/panels/general.php:352
+msgid "Enable slider loop."
+msgstr ""
+
+#: inc/customizer/panels/general.php:373
+msgid "Slider Caption"
+msgstr ""
+
+#: inc/customizer/panels/general.php:374
+msgid "Enable slider caption."
+msgstr ""
+
+#: inc/customizer/panels/general.php:394
+msgid "Slider Animation"
+msgstr ""
+
+#: inc/customizer/panels/general.php:397
+msgid "Bounce Out"
+msgstr ""
+
+#: inc/customizer/panels/general.php:398
+msgid "Bounce Out Left"
+msgstr ""
+
+#: inc/customizer/panels/general.php:399
+msgid "Bounce Out Right"
+msgstr ""
+
+#: inc/customizer/panels/general.php:400
+msgid "Bounce Out Up"
+msgstr ""
+
+#: inc/customizer/panels/general.php:401
+msgid "Bounce Out Down"
+msgstr ""
+
+#: inc/customizer/panels/general.php:402
+msgid "Fade Out"
+msgstr ""
+
+#: inc/customizer/panels/general.php:403
+msgid "Fade Out Left"
+msgstr ""
+
+#: inc/customizer/panels/general.php:404
+msgid "Fade Out Right"
+msgstr ""
+
+#: inc/customizer/panels/general.php:405
+msgid "Fade Out Up"
+msgstr ""
+
+#: inc/customizer/panels/general.php:406
+msgid "Fade Out Down"
+msgstr ""
+
+#: inc/customizer/panels/general.php:407
+msgid "Flip OutX"
+msgstr ""
+
+#: inc/customizer/panels/general.php:408
+msgid "Flip OutY"
+msgstr ""
+
+#: inc/customizer/panels/general.php:409
+msgid "Hinge"
+msgstr ""
+
+#: inc/customizer/panels/general.php:410
+msgid "Pulse"
+msgstr ""
+
+#: inc/customizer/panels/general.php:411
+msgid "Roll Out"
+msgstr ""
+
+#: inc/customizer/panels/general.php:412
+msgid "Rotate Out"
+msgstr ""
+
+#: inc/customizer/panels/general.php:413
+msgid "Rubber Band"
+msgstr ""
+
+#: inc/customizer/panels/general.php:414
+msgid "Shake"
+msgstr ""
+
+#: inc/customizer/panels/general.php:416
+msgid "Slide Out Left"
+msgstr ""
+
+#: inc/customizer/panels/general.php:417
+msgid "Slide Out Right"
+msgstr ""
+
+#: inc/customizer/panels/general.php:418
+msgid "Slide Out Up"
+msgstr ""
+
+#: inc/customizer/panels/general.php:419
+msgid "Slide Out Down"
+msgstr ""
+
+#: inc/customizer/panels/general.php:420
+msgid "Swing"
+msgstr ""
+
+#: inc/customizer/panels/general.php:421
+msgid "Tada"
+msgstr ""
+
+#: inc/customizer/panels/general.php:422
+msgid "Zoom Out"
+msgstr ""
+
+#: inc/customizer/panels/general.php:423
+msgid "Zoom Out Left"
+msgstr ""
+
+#: inc/customizer/panels/general.php:424
+msgid "Zoom Out Right"
+msgstr ""
+
+#: inc/customizer/panels/general.php:425
+msgid "Zoom Out Up"
+msgstr ""
+
+#: inc/customizer/panels/general.php:426
+msgid "Zoom Out Down"
+msgstr ""
+
+#: inc/customizer/panels/general.php:448
+msgid "Slider Speed"
+msgstr ""
+
+#: inc/customizer/panels/general.php:449
+msgid "Controls the speed of slider in miliseconds."
+msgstr ""
+
+#: inc/customizer/panels/general.php:475
+msgid "Banner Button label"
+msgstr ""
+
+#: inc/customizer/panels/general.php:496
+msgid "Banner Button Link"
+msgstr ""
+
+#: inc/customizer/panels/general.php:514
+msgid "Banner Read more Link"
+msgstr ""
+
+#: inc/customizer/panels/general.php:556
+msgid "Banner Caption Alignment"
+msgstr ""
+
+#: inc/customizer/panels/general.php:560
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/panels/general.php:581
+msgid "%1$sClick here%2$s to select the layout of static banner."
+msgstr ""
+
+#: inc/customizer/panels/home/blog.php:12
+msgid "Blogs Section"
+msgstr ""
+
+#: inc/customizer/panels/home/blog.php:21
+#: inc/customizer/partial-refresh.php:119 sections/home/blog.php:7
+msgid "News And Blogs"
+msgstr ""
+
+#: inc/customizer/panels/home/blog.php:54
+msgid "Posts based on"
+msgstr ""
+
+#: inc/customizer/panels/home/blog.php:59
+msgid "Posts"
+msgstr ""
+
+#: inc/customizer/panels/home/blog.php:99
+msgid "Select post"
+msgstr ""
+
+#: inc/customizer/panels/home/blog.php:120
+msgid "Button label"
+msgstr ""
+
+#: inc/customizer/panels/home/blog.php:121
+msgid "Add button label for blog and news section."
+msgstr ""
+
+#: inc/customizer/panels/home/category.php:15
+#: inc/customizer/panels/home/sort.php:40
+msgid "Category Section"
+msgstr ""
+
+#: inc/customizer/panels/home/category.php:34
+msgid "Select Product Categories"
+msgstr ""
+
+#: inc/customizer/panels/home/category.php:35
+msgid "Maximum limit categories is 7"
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:14
+msgid "Product Deal Section"
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:24
+#: inc/customizer/partial-refresh.php:74 sections/home/deals.php:8
+msgid "Golder Plated TAG Heuer Carrera Watch"
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:34
+msgid "Add title for product deal section."
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:48
+#: inc/customizer/partial-refresh.php:83 sections/home/deals.php:9
+msgid "Deal Ends At"
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:58
+msgid "Add description for product deal section."
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:81
+msgid "Event Time"
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:82
+msgid "Select upcoming event time."
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:101
+#: inc/customizer/panels/home/deals.php:124
+msgid "Product Deal Section Button"
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:102
+msgid "Add button label for product deal section."
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:125
+msgid "Add button url for product deal section."
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:142
+msgid "Choose Image"
+msgstr ""
+
+#: inc/customizer/panels/home/deals.php:143
+msgid ""
+"Choose Image of your choice in png format. Recommended size for this image "
+"is 534px by 602px."
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:15
+msgid "Featured product Section"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:25
+#: inc/customizer/partial-refresh.php:65 sections/home/featured-products.php:8
+msgid "Our Featured Products"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:62
+msgid "Category Tabs"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:66
+msgid "Choose Category for Tabs"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:72
+#: inc/customizer/panels/home/product-cat.php:49
+msgid "category"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:92
+#: inc/customizer/panels/home/new-arrivals.php:57
+#: inc/customizer/panels/home/product-cat.php:68
+msgid "Products Based on"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:95
+#: inc/customizer/panels/home/new-arrivals.php:60
+#: inc/customizer/panels/home/product-cat.php:71
+msgid "Latest Product"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:96
+#: inc/customizer/panels/home/product-cat.php:72
+msgid "Popular Products"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:97
+#: inc/customizer/panels/home/product-cat.php:73
+msgid "Sale Products"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:118
+#: inc/customizer/panels/home/product-cat.php:135
+msgid "Number of Products"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:119
+#: inc/customizer/panels/home/product-cat.php:136
+msgid "Choose the number of products you want to display"
+msgstr ""
+
+#: inc/customizer/panels/home/featured-products.php:133
+#: sections/home/featured-products.php:10
+msgid "View All"
+msgstr ""
+
+#: inc/customizer/panels/home/featured.php:38
+#: inc/customizer/panels/home/featured.php:64
+#: inc/customizer/panels/home/footer-top.php:58
+#: inc/customizer/panels/home/footer-top.php:75
+#: inc/customizer/panels/home/offer.php:38
+#: inc/customizer/panels/home/offer.php:68
+#: inc/customizer/section/footer.php:128
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer/panels/home/featured.php:42
+#: inc/customizer/panels/home/offer.php:42
+msgid "Enter Tag"
+msgstr ""
+
+#: inc/customizer/panels/home/featured.php:50
+#: inc/customizer/panels/home/offer.php:54
+msgid "Enter label"
+msgstr ""
+
+#: inc/customizer/panels/home/footer-top.php:15
+#: inc/customizer/panels/home/sort.php:47
+msgid "Footer Top Section"
+msgstr ""
+
+#: inc/customizer/panels/home/footer-top.php:35
+msgid "Footer Top section in all pages"
+msgstr ""
+
+#: inc/customizer/panels/home/footer-top.php:36
+msgid "Enable to show footer this section in all posts/pages"
+msgstr ""
+
+#: inc/customizer/panels/home/footer-top.php:70
+msgid "Enter Subtitle"
+msgstr ""
+
+#: inc/customizer/panels/home/new-arrivals.php:15
+#: inc/customizer/panels/home/sort.php:41
+msgid "New Arrivals Section"
+msgstr ""
+
+#: inc/customizer/panels/home/new-arrivals.php:24
+#: inc/customizer/partial-refresh.php:56 sections/home/new-arrivals.php:8
+msgid "New Arrivals"
+msgstr ""
+
+#: inc/customizer/panels/home/new-arrivals.php:81
+msgid "Select Product Category"
+msgstr ""
+
+#: inc/customizer/panels/home/new-arrivals.php:102
+msgid "Select products"
+msgstr ""
+
+#: inc/customizer/panels/home/new-arrivals.php:125
+msgid "Number of products to show"
+msgstr ""
+
+#: inc/customizer/panels/home/offer.php:15
+#: inc/customizer/panels/home/sort.php:42
+msgid "Offer Section"
+msgstr ""
+
+#: inc/customizer/panels/home/offer.php:50
+msgid "Enter Content"
+msgstr ""
+
+#: inc/customizer/panels/home/offer.php:91
+msgid "First Offer Color"
+msgstr ""
+
+#: inc/customizer/panels/home/offer.php:110
+msgid "Second Offer Color"
+msgstr ""
+
+#: inc/customizer/panels/home/product-cat.php:12
+msgid "Category List Section"
+msgstr ""
+
+#: inc/customizer/panels/home/product-cat.php:35
+msgid "Category Lists"
+msgstr ""
+
+#: inc/customizer/panels/home/product-cat.php:43
+msgid "Choose Category for Lists"
+msgstr ""
+
+#: inc/customizer/panels/home/product-cat.php:82
+msgid "Shop now"
+msgstr ""
+
+#: inc/customizer/panels/home/product-cat.php:91
+msgid "Product Section Button"
+msgstr ""
+
+#: inc/customizer/panels/home/sort.php:37
+msgid "Sort or toggle Default Homepage page sections."
+msgstr ""
+
+#: inc/customizer/panels/home/sort.php:43
+msgid "Featured Products Section"
+msgstr ""
+
+#: inc/customizer/panels/home/sort.php:44
+msgid "Deals Section"
+msgstr ""
+
+#: inc/customizer/panels/home/sort.php:45
+msgid "Product Category Section"
+msgstr ""
+
+#: inc/customizer/panels/home/sort.php:46
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/panels/home.php:18
+msgid "Front Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/home.php:19
+msgid "Static Home Page settings."
+msgstr ""
+
+#: inc/customizer/panels/layout/general.php:15
+msgid "General Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/panels/layout/general.php:36
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/panels/layout/general.php:37
+msgid ""
+"This is the general sidebar layout for pages. You can override the sidebar "
+"layout for individual page in respective page."
+msgstr ""
+
+#: inc/customizer/panels/layout/general.php:62
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/panels/layout/general.php:63
+msgid ""
+"This is the general sidebar layout for posts & custom post. You can "
+"override the sidebar layout for individual post in respective post."
+msgstr ""
+
+#: inc/customizer/panels/layout/general.php:88
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/panels/layout/general.php:89
+msgid "This is the general sidebar layout for whole site."
+msgstr ""
+
+#: inc/customizer/panels/layout/header.php:15
+#: inc/customizer/panels/layout/header.php:36
+msgid "Header Layout"
+msgstr ""
+
+#: inc/customizer/panels/layout/header.php:37
+msgid "Choose the layout of the header for your site."
+msgstr ""
+
+#: inc/customizer/panels/layout/header.php:62
+msgid "%1$sClick here%2$s to configure header settings."
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:15
+msgid "Pagination Settings"
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:35
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:36
+msgid "Select pagination type."
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:38
+msgid "Default (Next / Previous)"
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:39
+msgid "Numbered (1 2 3 4...)"
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:40
+msgid "AJAX (Load More Button)"
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:58
+msgid "Load More Label"
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:77
+msgid "Loading Label"
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:87
+msgid "No More Post"
+msgstr ""
+
+#: inc/customizer/panels/layout/pagination.php:96
+msgid "No More Label"
+msgstr ""
+
+#: inc/customizer/panels/layout/slider.php:15
+#: inc/customizer/panels/layout/slider.php:36
+msgid "Slider Layout"
+msgstr ""
+
+#: inc/customizer/panels/layout/slider.php:37
+msgid "Choose the layout of the slider for your site."
+msgstr ""
+
+#: inc/customizer/panels/layout/slider.php:61
+msgid "%1$sClick here%2$s to configure slider settings."
+msgstr ""
+
+#: inc/customizer/panels/layout.php:17
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/panels/layout.php:18
+msgid "Change different page layout from here."
+msgstr ""
+
+#: inc/customizer/panels/partner/cta.php:35
+#: inc/customizer/panels/services/cta.php:35
+#: inc/customizer/panels/testimonial/cta.php:35
+msgid "Enable CTA section"
+msgstr ""
+
+#: inc/customizer/panels/partner/faq.php:35
+#: inc/customizer/panels/pricing/faq.php:35
+msgid "Enable FAQ Section"
+msgstr ""
+
+#: inc/customizer/panels/partner/partner.php:24
+#: inc/customizer/partial-refresh.php:341 page-template/partner.php:8
+msgid "Our Clients"
+msgstr ""
+
+#: inc/customizer/panels/partner.php:15
+msgid "Partner Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/partner.php:16
+msgid "Partner Template settings."
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:14
+msgid "Pricing Section"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:37
+msgid "Add Pricing Packages"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:41
+msgid "Package Type"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:42
+msgid "For Example: Bronze Package"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:46
+msgid "Enter Currency"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:47
+msgid "For Example: $, NRs"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:51
+msgid "Enter Price"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:55
+msgid "Time Period"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:56
+msgid "For Example: Month, Year, Lifetime"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:60
+msgid "Enter Items"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:61
+msgid "One Item Per line"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:65
+msgid "Enter Button Label"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:69
+msgid "Enter Button URL"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:73
+msgid "Enter recommended tag"
+msgstr ""
+
+#: inc/customizer/panels/pricing/pricing.php:78
+msgid "Pricing"
+msgstr ""
+
+#: inc/customizer/panels/pricing.php:15
+msgid "Pricing Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/pricing.php:16
+msgid "Pricing Template settings."
+msgstr ""
+
+#: inc/customizer/panels/services/partner.php:35
+#: inc/customizer/panels/testimonial/partner.php:35
+msgid "Enable Partner section"
+msgstr ""
+
+#: inc/customizer/panels/services/services.php:15
+msgid "Services Section"
+msgstr ""
+
+#: inc/customizer/panels/services/services.php:24
+#: inc/customizer/partial-refresh.php:125 page-template/services.php:8
+msgid "Our Services"
+msgstr ""
+
+#: inc/customizer/panels/services/services.php:92
+msgid "Service Title"
+msgstr ""
+
+#: inc/customizer/panels/services/services.php:96
+msgid "Service Content"
+msgstr ""
+
+#: inc/customizer/panels/services.php:15
+msgid "Services Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/services.php:16
+msgid "Services Template settings."
+msgstr ""
+
+#: inc/customizer/panels/team.php:17
+msgid "Team Page Settings"
+msgstr ""
+
+#: inc/customizer/panels/team.php:91
+msgid "Number of Team Member to show"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/partner.php:103
+msgid "Services"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/partner.php:121
+msgid "services"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/sort.php:16
+msgid "Sort Testimonial Details"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/sort.php:37
+msgid "Sort Testimonial Meta"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/sort.php:38
+msgid "Sort or toggle default testimonial contents"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/sort.php:40
+msgid "Content Details"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/sort.php:41
+msgid "Rating Details"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/sort.php:42
+msgid "Name Details"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/sort.php:43
+msgid "Designation Details"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/testimonial.php:24
+#: inc/customizer/partial-refresh.php:179 page-template/testimonial.php:8
+msgid "Our Testimonials"
+msgstr ""
+
+#: inc/customizer/panels/testimonial/testimonial.php:82
+msgid "Number of Testimonial to show"
+msgstr ""
+
+#: inc/customizer/panels/testimonial.php:17
+msgid "Testimonial Page Settings"
+msgstr ""
+
+#: inc/customizer/partial-refresh.php:18
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/customizer/partial-refresh.php:19 inc/extra-functions.php:708
+#: inc/extra-functions.php:948 inc/extra-functions.php:950
+#: inc/extra-functions.php:952 inc/extra-functions.php:955
+#: inc/extra-functions.php:957 inc/extra-functions.php:960
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/partial-refresh.php:21
+msgid "All Rights Reserved."
+msgstr ""
+
+#: inc/customizer/partial-refresh.php:35
+msgid " | Developed By "
+msgstr ""
+
+#: inc/customizer/partial-refresh.php:36
+msgid "Good Looking Themes"
+msgstr ""
+
+#: inc/customizer/partial-refresh.php:47
+msgid "%1$s Powered by %2$s%3$s."
+msgstr ""
+
+#: inc/customizer/partial-refresh.php:47
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/customizer/section/elementor.php:13
+msgid "Elementor Settings"
+msgstr ""
+
+#: inc/customizer/section/elementor.php:33
+msgid "Enable Elementor Page Builder in FrontPage"
+msgstr ""
+
+#: inc/customizer/section/elementor.php:34
+msgid "You can override your Homepage Contents from this Elementor Page Builder"
+msgstr ""
+
+#: inc/customizer/section/footer.php:14
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/section/footer.php:33
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/section/footer.php:34
+msgid ""
+"You can change footer copyright and use your own custom text from here. Use "
+"[the-year] shortcode to display current year & [the-site-link] shortcode to "
+"display site link."
+msgstr ""
+
+#: inc/customizer/section/footer.php:61
+msgid "Hide Author Link"
+msgstr ""
+
+#: inc/customizer/section/footer.php:87
+msgid "Hide WordPress Link"
+msgstr ""
+
+#: inc/customizer/section/footer.php:114
+msgid "Footer Images"
+msgstr ""
+
+#: inc/extra-functions.php:22
+msgid "Choose Category"
+msgstr ""
+
+#: inc/extra-functions.php:135
+msgid "Days"
+msgstr ""
+
+#: inc/extra-functions.php:141
+msgid "Hours"
+msgstr ""
+
+#: inc/extra-functions.php:147
+msgid "Minutes"
+msgstr ""
+
+#: inc/extra-functions.php:153
+msgid "Seconds"
+msgstr ""
+
+#: inc/extra-functions.php:250
+msgid "All Categories"
+msgstr ""
+
+#: inc/extra-functions.php:258
+msgid "Search for:"
+msgstr ""
+
+#: inc/extra-functions.php:260
+msgid "Search Products..."
+msgstr ""
+
+#: inc/extra-functions.php:285
+msgid "View your favourite cart"
+msgstr ""
+
+#: inc/extra-functions.php:318
+msgid "Sign in"
+msgstr ""
+
+#: inc/extra-functions.php:319
+msgid "Account"
+msgstr ""
+
+#: inc/extra-functions.php:363 inc/extra-functions.php:405
+msgid "Click here to add a menu"
+msgstr ""
+
+#: inc/extra-functions.php:517
+msgid "Sold Out"
+msgstr ""
+
+#: inc/extra-functions.php:859
+msgid "Home"
+msgstr ""
+
+#: inc/extra-functions.php:945
+msgid "Search Results for \"%s\""
+msgstr ""
+
+#: inc/extra-functions.php:950 inc/extra-functions.php:952
+#: inc/extra-functions.php:957
+msgid "m"
+msgstr ""
+
+#: inc/extra-functions.php:950 inc/extra-functions.php:957
+msgid "F"
+msgstr ""
+
+#: inc/extra-functions.php:952
+msgid "d"
+msgstr ""
+
+#: inc/extra-functions.php:1037
+msgid "Page %s"
+msgstr ""
+
+#: inc/extra-functions.php:1064
+msgid "404 Error - Page Not Found"
+msgstr ""
+
+#: inc/extra-functions.php:1067
+msgid " (Page %s)"
+msgstr ""
+
+#: inc/extra-functions.php:1102
+msgid "Related Posts"
+msgstr ""
+
+#: inc/extra-functions.php:1172
+msgid "Readmore"
+msgstr ""
+
+#: inc/extra-functions.php:1212
+msgid "%s Post"
+msgstr ""
+
+#: inc/extra-functions.php:1396
+msgid ""
+"<b class=\"fn\" itemprop=\"creator\" itemscope "
+"itemtype=\"http://schema.org/Person\">%s <span "
+"class=\"says\">says:</span></b>"
+msgstr ""
+
+#: inc/extra-functions.php:1399
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/extra-functions.php:1403
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extra-functions.php:1410
+msgid " Comments"
+msgstr ""
+
+#: inc/extra-functions.php:1411
+msgid "Reply"
+msgstr ""
+
+#: inc/metabox.php:13
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:22
+msgid "Details"
+msgstr ""
+
+#: inc/metabox.php:31 inc/metabox.php:216 inc/metabox.php:315
+msgid "Designation"
+msgstr ""
+
+#: inc/metabox.php:43 inc/widgets.php:14
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metabox.php:48
+msgid "Full Width"
+msgstr ""
+
+#: inc/metabox.php:53
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metabox.php:58
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metabox.php:69
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/metabox.php:142
+msgid "User Social Link"
+msgstr ""
+
+#: inc/metabox.php:147 inc/metabox.php:242
+msgid "%s :"
+msgstr ""
+
+#: inc/metabox.php:149 inc/metabox.php:244
+msgid "Please enter your %s Url."
+msgstr ""
+
+#: inc/metabox.php:214
+msgid "Team Details"
+msgstr ""
+
+#: inc/metabox.php:220
+msgid "Experience"
+msgstr ""
+
+#: inc/metabox.php:224
+msgid "E-mail Address"
+msgstr ""
+
+#: inc/metabox.php:228
+msgid "Contact Number"
+msgstr ""
+
+#: inc/metabox.php:232
+msgid "Fax"
+msgstr ""
+
+#: inc/metabox.php:238
+msgid "Social Links"
+msgstr ""
+
+#: inc/metabox.php:320
+msgid "Rating (Please enter rating value between 1 to 5)"
+msgstr ""
+
+#: inc/social-sharing.php:517
+msgid "facebook"
+msgstr ""
+
+#: inc/social-sharing.php:521
+msgid "twitter"
+msgstr ""
+
+#: inc/social-sharing.php:525
+msgid "linkedin"
+msgstr ""
+
+#: inc/social-sharing.php:529
+msgid "pinterest"
+msgstr ""
+
+#: inc/social-sharing.php:533
+msgid "email"
+msgstr ""
+
+#: inc/social-sharing.php:537
+msgid "reddit"
+msgstr ""
+
+#: inc/social-sharing.php:541
+msgid "tumblr"
+msgstr ""
+
+#: inc/social-sharing.php:545
+msgid "digg"
+msgstr ""
+
+#: inc/social-sharing.php:549
+msgid "weibo"
+msgstr ""
+
+#: inc/social-sharing.php:553
+msgid "xing"
+msgstr ""
+
+#: inc/social-sharing.php:557
+msgid "vk"
+msgstr ""
+
+#: inc/social-sharing.php:561
+msgid "pocket"
+msgstr ""
+
+#: inc/social-sharing.php:565
+msgid "whatsapp"
+msgstr ""
+
+#: inc/social-sharing.php:569
+msgid "telegram"
+msgstr ""
+
+#: inc/social-sharing.php:585
+msgid "Share: "
+msgstr ""
+
+#: inc/template-functions.php:39
+msgid "Skip to content (Press Enter)"
+msgstr ""
+
+#: inc/template-functions.php:51
+msgid "End of Season SALE now on thru 1/21."
+msgstr ""
+
+#: inc/template-functions.php:53
+msgid "SHOP NOW"
+msgstr ""
+
+#: inc/template-functions.php:293 template-parts/content-page.php:31
+msgid "Pages:"
+msgstr ""
+
+#: inc/template-functions.php:371
+msgid "Prev"
+msgstr ""
+
+#: inc/template-functions.php:393 inc/template-functions.php:420
+msgid "Next"
+msgstr ""
+
+#: inc/template-functions.php:419
+msgid "Previous"
+msgstr ""
+
+#: inc/template-functions.php:421
+msgid "Page"
+msgstr ""
+
+#: inc/template-functions.php:715
+msgid "Responsibility: "
+msgstr ""
+
+#: inc/template-functions.php:716
+msgid "Experience: "
+msgstr ""
+
+#: inc/template-functions.php:717
+msgid "Email: "
+msgstr ""
+
+#: inc/template-functions.php:718
+msgid "Website: "
+msgstr ""
+
+#: inc/template-functions.php:719
+msgid "Phone: "
+msgstr ""
+
+#: inc/template-tags.php:55
+#. translators: used between list items, there is a space after the comma
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:58
+#. translators: 1: list of categories.
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:65
+#. translators: 1: list of tags.
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:75
+#. translators: %s: post title
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:92 template-parts/content-page.php:45
+#. translators: %s: Name of current post. Only visible to screen readers
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-tags.php:133
+msgid " -- Choose -- "
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:330
+#. translators: %s: plugin name.
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:332
+#. translators: %s: plugin name.
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:370
+#. translators: 1: plugin name(s).
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:386
+#: inc/tgmpa/class-tgm-plugin-activation.php:827
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+#: inc/tgmpa/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:387
+#: inc/tgmpa/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:388
+#: inc/tgmpa/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:390
+#. translators: 1: plugin name.
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:392
+#. translators: 1: plugin name.
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:394
+#. translators: 1: dashboard link.
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:934
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1982
+#. translators: %s: version number
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2392
+#. translators: 1: number of plugins.
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2396
+#. translators: 1: number of plugins.
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2400
+#. translators: 1: number of plugins.
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2603
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2608
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Update %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2614
+#. translators: %2$s: plugin name in screen reader markup
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3498
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3501
+#. translators: 1: plugin name, 2: error message.
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3503
+#. translators: 1: plugin name.
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take "
+"a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#. translators: 1: plugin name.
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3509
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3512
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3517
+#. translators: 1: plugin name.
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:3520
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:51
+msgid "Regenerate Thumbnails"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:56
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:61
+msgid "Contact Form 7"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:66
+msgid "WooCommerce"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:71
+msgid "YITH WooCommerce Wishlist"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:76
+msgid "YITH WooCommerce Quick View"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:81
+msgid "WOOCS - WooCommerce Currency Switcher"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:86
+msgid "Max Mega Menu"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:91
+msgid "GTranslate"
+msgstr ""
+
+#: inc/widgets.php:12
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:17
+msgid "Footer One"
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "Add footer one widgets here."
+msgstr ""
+
+#: inc/widgets.php:22
+msgid "Footer Two"
+msgstr ""
+
+#: inc/widgets.php:24
+msgid "Add footer two widgets here."
+msgstr ""
+
+#: inc/widgets.php:27
+msgid "Footer Three"
+msgstr ""
+
+#: inc/widgets.php:29
+msgid "Add footer three widgets here."
+msgstr ""
+
+#: inc/widgets.php:32
+msgid "Footer Four"
+msgstr ""
+
+#: inc/widgets.php:34
+msgid "Add footer four widgets here."
+msgstr ""
+
+#: inc/widgets.php:37
+msgid "Footer Five"
+msgstr ""
+
+#: inc/widgets.php:39
+msgid "Add footer five widgets here."
+msgstr ""
+
+#: inc/woo-functions.php:75 inc/woo-functions.php:96
+msgid "View your shopping cart"
+msgstr ""
+
+#: inc/woo-functions.php:113
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woo-functions.php:115
+msgid "Sidebar displaying only in woocommerce pages."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://underscores.me/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Description"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Underscores.me"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "About page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Contact page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "FAQ page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Partners page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Pricing page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Services page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Teams page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Testimonial page"
+msgstr ""
+
+#: comments.php:41
+#. translators: 1: comment count number, 2: title.
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/cpt.php:17
+msgctxt "Post Type General Name"
+msgid "Teams"
+msgstr ""
+
+#: inc/cpt.php:78
+msgctxt "Post Type General Name"
+msgid "Testimonials"
+msgstr ""
+
+#: inc/cpt.php:18
+msgctxt "Post Type Singular Name"
+msgid "Team"
+msgstr ""
+
+#: inc/cpt.php:79
+msgctxt "Post Type Singular Name"
+msgid "Testimonial"
+msgstr ""
+
+#: inc/template-tags.php:38
+#. translators: %s: post author.
+msgctxt "post author"
+msgid "By %s"
+msgstr ""
+
+#: inc/template-tags.php:62
+#. translators: used between list items, there is a space after the comma
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:1121
+#: inc/tgmpa/class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2342
+#. translators: 1: install status, 2: update status
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2388
+#. translators: 1: number of plugins.
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/tgmpa/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
